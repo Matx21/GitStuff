@@ -260,5 +260,15 @@ textarea.form-control::placeholder{
 }
 footer {
 padding-top: 1%;
-text-align: center;
+text-align: center; 
 }
+.fa-coins {
+   color: yellow;
+}
+.fa-object-group {
+     color: black;
+}
+.fa-unlock {
+   color: blue;
+}
+ 
